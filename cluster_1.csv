@@ -1,0 +1,28 @@
+pc1,pc2,sentence,cluster
+-0.61454326,-0.718183," For other uses, see AI (disambiguation) and Artificial intelligence (disambiguation)",1
+-1.241602,0.24166065,"
+
+Artificial intelligence (AI) is the capability of computational systems to perform tasks typically associated with human intelligence, such as learning, reasoning, problem-solving, perception, and decision-making",1
+-1.4836876,0.82383204, It is a field of research in computer science that develops and studies methods and software that enable machines to perceive their environment and use learning and intelligence to take actions that maximize their chances of achieving defined goals,1
+-0.7135392,0.18937124,"
+
+High-profile applications of AI include advanced web search engines (e",1
+-0.92413276,-0.7391166,", Google Search); recommendation systems (used by YouTube, Amazon, and Netflix); virtual assistants (e",1
+-0.94893306,-0.31217632,", language models and AI art); and superhuman play and analysis in strategy games (e",1
+-1.4052187,1.1398001," However, many AI applications are not perceived as AI: ""A lot of cutting edge AI has filtered into general applications, often without being called AI because once something becomes useful enough and common enough it's not labeled AI anymore",1
+-1.0281799,-0.22840282,"""
+
+Various subfields of AI research are centered around particular goals and the use of particular tools",1
+-1.1607323,0.29716164," The traditional goals of AI research include learning, reasoning, knowledge representation, planning, natural language processing, perception, and support for robotics",1
+-1.4533677,0.63478714,"[a] To reach these goals, AI researchers have adapted and integrated a wide range of techniques, including search and mathematical optimization, formal logic, artificial neural networks, and methods based on statistics, operations research, and economics",1
+-0.7774976,-0.9060236,"AI also draws upon psychology, linguistics, philosophy, neuroscience, and other fields",1
+-1.3766714,0.4217184,"Some companies, such as OpenAI, Google DeepMind and Meta, aim to create artificial general intelligence (AGI) – AI that can complete virtually any cognitive task at least as well as a human",1
+-1.3789394,0.4151839,"
+
+Artificial intelligence was founded as an academic discipline in 1956 and the field went through multiple cycles of optimism throughout its history,followed by periods of disappointment and loss of funding, known as AI winters",1
+-1.2736819,0.055821817,"Funding and interest vastly increased after 2012 when graphics processing units started being used to accelerate neural networks, and deep learning outperformed previous AI techniques",1
+-1.0898565,0.081729926," In the 2020s, an ongoing period of rapid progress in advanced generative AI became known as the AI boom",1
+-1.0495305,0.30936456, Generative AI's ability to create and modify content has led to several unintended consequences and harms,1
+-1.2979051,0.3596712," Ethical concerns have been raised about AI's long-term effects and potential existential risks, prompting discussions about regulatory policies to ensure the safety and benefits of the technology",1
+0.47525254,2.2199936,"
+",1
